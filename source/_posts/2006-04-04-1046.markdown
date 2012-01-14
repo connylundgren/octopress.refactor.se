@@ -1,0 +1,35 @@
+---
+author: connylundgren
+date: '2006-04-04 12:56:33'
+layout: post
+slug: '1046'
+status: publish
+title: 10.4.6
+wordpress_id: '16'
+categories:
+- mac osx
+---
+
+10.4.6 is available now from Software Update. Bugfixes/features from the
+release notes.
+
+  
+The 10.4.6 Update is recommended for all users and includes general operating
+system fixes, as well as specific fixes for the following applications and
+technologies:
+
+  * login and authentication in a variety of network environments 
+  * file access and byte range locking with AFP file sharing 
+  * network access when using proxy server automatic configuration files 
+  * connecting to Cisco VPN servers using IP/Sec 
+  * using Bluetooth wireless devices 
+  * searching iWork '06 and Microsoft Office documents with Spotlight 
+  * saving Word documents automatically when using a network home directory 
+  * creating Automator workflows for iPhoto 6 
+  * synchronizing contacts and calendars to .Mac and mobile phones 
+  * mounting and unmounting iDisk volumes 
+  * compatibility with third party applications and devices 
+  * previous standalone security updates For detailed information on this Update, please visit this website: http://www.info.apple.com/kbnum/n303411.  
+For detailed information on Security Updates, please visit this website:
+http://www.info.apple.com/kbnum/n61798.
+

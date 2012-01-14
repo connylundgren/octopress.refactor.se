@@ -1,0 +1,22 @@
+---
+author: connylundgren
+date: '2005-11-29 23:59:24'
+layout: post
+slug: firefox-15
+status: publish
+title: Firefox 1.5
+wordpress_id: '11'
+categories:
+- open source
+---
+
+After a series of betas & RC’s the browser of my choice
+[Firefox](http://www.mozilla.com/firefox) released 1.5 today.
+
+Among the news is automatic updates, faster browsing (whatever that means),
+better tab handling (finally the possibility to move tabs around!), better OSX
+support.
+
+First impressions are good, still some minor issues though, it mostly seems
+related to my folderorg script when downloading files.
+

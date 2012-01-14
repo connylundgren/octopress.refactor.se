@@ -1,0 +1,28 @@
+---
+author: connylundgren
+date: '2006-02-19 14:49:51'
+layout: post
+slug: eclipse-32m5
+status: publish
+title: Eclipse 3.2M5
+wordpress_id: '26'
+categories:
+- java
+---
+
+A couple of days ago the M5 release of Eclipse 3.2 were released, when reading
+the "New and Noteworthy" of the release I noticed some really nice and missed
+features. Among the news are.
+
+  * Refactoring scripts - Nice feature, could be really helpful. 
+  * Java SE 6 (Mustang) support - (Hard to test on my Powerbook though.. ) 
+  * SWT goodies 
+  * Introduce Indirection Refactoring added 
+  * Problem View - Fix multiple problems/errors on the same time (looks promising) 
+  * Improved CVS/Team - Nice improvements also shows local changes 
+  * Cleanup Wizard - added support for Remove unnecessary blocks/casts, Add serial version id to 'Serializable' and 'Externalizable' classes 
+  * Multiple quick-fix - Fix similar errors/problems in the same file 
+  * Quickfix "Generify" - Add type-information to lists/collections 
+  * Junit view - History, nice feature to retain a history of tests. 
+  * Command line code formatter - Nice utility to format code without using the IDE. I have only glanced at the new improvements/features, but it sure seems nice.. I will try to use the M5 for a while now and see how it goes.
+

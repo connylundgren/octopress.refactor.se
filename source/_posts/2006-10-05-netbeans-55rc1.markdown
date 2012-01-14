@@ -1,0 +1,21 @@
+---
+author: connylundgren
+date: '2006-10-05 08:20:25'
+layout: post
+slug: netbeans-55rc1
+status: publish
+title: Netbeans 5.5RC1
+wordpress_id: '66'
+categories:
+- java
+---
+
+Over at Netbeans Project the
+[RC1](http://www.netbeans.info/downloads/download.php?type=5.5rc1) of
+Netbeans5.5 has surfaced, hopefully this means that the final 5.5 release is
+just behind the corner.
+
+Lately I have been using Netbeans quite a bit for some personal/of hours
+projects, and being a longtime Eclipse user the transition has been pretty
+smooth (although I still prefer Eclipse over Netbeans).
+

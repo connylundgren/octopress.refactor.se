@@ -1,0 +1,37 @@
+---
+author: connylundgren
+date: '2006-11-22 12:04:34'
+layout: post
+slug: seam-11cr1
+status: publish
+title: Seam 1.1CR1
+wordpress_id: '73'
+categories:
+- java
+- seam
+---
+
+The CR1 of Seam 1.1 were released yesterday, and it brings allot of new nice
+features. One nice feature are that you now have the option to use any Java EE
+application server along with your Seam-application. Another thing to note is
+the integration with the ICEFaces and Ajax4JSF frameworks.
+
+  * New concurrency model for AJAX-based applications
+  * Integration with ICEfaces and Ajax4JSF
+  * Support for J2EE environments
+  * The Seam Application Framework for data-oriented applications
+  * seam-gen, a command line tool for generating seam projects, actions, and reverse engineering existing databases
+  * Efficient clustering of Seam-managed extended persistence contexts and JavaBean components
+  * Support for atomic conversations
+  * Asynchronous methods and events
+  * Enhanced configuration via components.xml
+  * Exception handling via annotations or exceptions.xml
+  * Page fragment caching via <s:cache/>
+  * Decoration of invalid input via <s:decorate/>
+  * Page parameters for RESTful applications
+  * Themes
+  * Support for the Sun JSF 1.2 reference implementation
+  * Many, many bugfixes and other enhancements
+Get the download [here](https://sourceforge.net/project/showfiles.php?group_id
+=22866&package_id=163777&release_id=465354)
+

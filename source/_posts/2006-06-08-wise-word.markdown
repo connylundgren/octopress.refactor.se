@@ -1,0 +1,16 @@
+---
+author: connylundgren
+date: '2006-06-08 19:31:04'
+layout: post
+slug: wise-word
+status: publish
+title: Wise word
+wordpress_id: '46'
+categories:
+- general
+---
+
+Great article by Michael Feathers about [being a
+professional](http://www.butunclebob.com/ArticleS.MichaelFeathers.LameDuck).
+Interesting reading, and many wise words.
+

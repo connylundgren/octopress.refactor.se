@@ -4,9 +4,9 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "user@domain.com"
+ssh_user       = "conlun@refactor.se"
 ssh_port       = "22"
-document_root  = "~/website.com/"
+document_root  = "~/blog.refactor.se"
 rsync_delete   = true
 deploy_default = "rsync"
 

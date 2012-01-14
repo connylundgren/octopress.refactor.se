@@ -1,0 +1,21 @@
+---
+author: connylundgren
+date: '2005-10-25 10:53:22'
+layout: post
+slug: mysql-50
+status: publish
+title: MySQL 5.0
+wordpress_id: '13'
+categories:
+- open source
+---
+
+MySQL has release version 5.0 of their RDB today, and I must say finding
+what's new wasn't the easiest task around. The whitepaper kicks you straight
+to a registration page...
+
+Has MySQL forgotten their roots?
+
+I wonder how long it will be until the Hibernate-project has implemented
+support for 5.0, I am guessing just a couple of days.
+

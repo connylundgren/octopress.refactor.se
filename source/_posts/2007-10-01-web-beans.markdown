@@ -1,0 +1,22 @@
+---
+author: connylundgren
+date: '2007-10-01 15:25:02'
+layout: post
+slug: web-beans
+status: publish
+title: Web Beans
+wordpress_id: '111'
+categories:
+- JSR299 (webbeans)
+---
+
+In case someone missed last weeks post from Gavin about the JSR299, be sure to
+take a peak since there are some really nice features, and should give you a
+better understanding of what to expect when we hit public draft.
+
+  * [Web Beans Sneak Peek Part I: Introducing Web Beans](http://in.relation.to/Bloggers/WebBeansSneakPeekPartIIntroducingWebBeans)
+  * [Web Beans Sneak Peek Part II: Injection, binding annotations and component types](http://in.relation.to/Bloggers/WebBeansSneakPeekPartIIInjectionBindingAnnotationsAndComponentTypes)
+  * [Web Beans Sneak Peek Part III: Declaring components using XML](http://in.relation.to/Bloggers/WebBeansSneakPeekPartIIIDeclaringComponentsUsingXML)
+  * [Web Beans Sneak Peek Part IV: Scopes, contexts and resolver methods](http://in.relation.to/Bloggers/WebBeansSneakPeekPartIVScopesContextsAndResolverMethods)
+  * [..And Gavin's comments on comments](http://blog.hibernate.org/2487.lace)
+

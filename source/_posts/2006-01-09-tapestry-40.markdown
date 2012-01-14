@@ -1,0 +1,42 @@
+---
+author: connylundgren
+date: '2006-01-09 14:10:46'
+layout: post
+slug: tapestry-40
+status: publish
+title: Tapestry 4.0
+wordpress_id: '33'
+categories:
+- java
+---
+
+After some major work (almost 2 years of development) the Tapestry team has
+released the next major version of the framework (4.0).
+
+Among the features of 4.0 are
+
+  * The new 4.0 specification DTDs have been simplified.
+  * The syntax used for binding parameters inside an HTML template and inside an XML specification is now consistent. Both make use of the binding prefixes.
+  * "Friendly" URLs (that is, URLs that pack more information into the path and less into query parameters) are built in. This makes it easy to divide your application across many folders (reducing clutter), and leverage J2EE declarative security along the way.
+  * Listener methods are much easier and more flexible; listener parameters in the URL are automatically mapped to listener method parameters, and listener methods can return the page name or page instance to activate.
+  * Component parameters now _just work_, without having to worry about "direction".
+  * Applications can now have a global message catalog, in addition to per-page and per-component message catalogs. Messages not found in the component message catalog are searched for in the application catalog.
+  * Full, native support for [developing JSR-168 Portlets](http://blog.refactor.se:81/tapestry-portlet/index.html) has been added.
+  * Tapestry 4.0 makes much less use of reflection and [OGNL](http://www.ognl.org) than Tapestry 3.0; partly because there are many new [binding prefixes](http://blog.refactor.se:81/UsersGuide/bindings.html) and largely because of how parameters are now implemented.
+  * HiveMind services and [Spring](http://springframework.org/) beans can be directly injected into page and component classes.
+  * Tapestry 4.0 includes optional [JDK 1.5 annotation support](http://blog.refactor.se:81/tapestry-annotations/index.html) (but Tapestry still works with [JDK 1.3](http://blog.refactor.se:81/dependencies.html)).
+  * Tapestry 4.0 debuts a new and much more sophisticated user input validation subsystem. Thanks Paul!
+  * Line precise error reporting can now display the contents of files containing errors.
+  * Forms can now be canceled, bypassing client-side validation logic, and invoking an alternate listener on the server-side.
+  * You are no longer limited to just Global and Visit; you can have as many [application state objects](http://blog.refactor.se:81/UsersGuide/state.html#state.aso) as you like.
+  * The use of [HiveMind](http://jakarta.apache.org/hivemind/) under the covers means that Tapestry can be easily customized to fit your needs.
+  * Page properties can now be persisted on the client, as well as in the session.
+  * Components and component parameters can now be marked as deprecated. Component parameters may have aliases (used when renaming a parameter).
+The most anticipated features (atleast from my point of view) is the support
+of annotations, cutting back on XML configuration is a good thing IMHO.
+
+To summarize, this release focus on reducing code and complexity.
+
+I will upgrade some applications i have running on Tapestry 3.x soon, should
+be a exciting experience.
+

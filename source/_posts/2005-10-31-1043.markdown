@@ -1,0 +1,48 @@
+---
+author: connylundgren
+date: '2005-10-31 23:08:58'
+layout: post
+slug: '1043'
+status: publish
+title: 10.4.3
+wordpress_id: '15'
+categories:
+- mac osx
+---
+
+As the rumors said 10.4.3 was released today, to summarise the news (according
+to Apple).
+
+> The 10.4.3 Update delivers overall improved reliability and compatibility
+for Mac OS X v10.4 and is recommended for all users.
+
+It includes fixes for:
+
+> * AFP, SMB/CIFS, NFS and FTP network file services
+
+> * AirPort and Bluetooth wireless access
+
+> * Core Graphics, Core Audio, Core Image, and RAW camera support
+
+> * disc recording when creating and burning media
+
+> * .Mac sync services
+
+> * Spotlight indexing and searching
+
+> * Dashboard widgets: Dictionary, Flight Tracker, Stickies, and Unit
+Converter
+
+> * Address Book, AppleScript, Automator, Dictionary, Font Book, iCal, iSync,
+Mail, and Safari applications
+
+> * Disk Utility, Keychain Access, Migration Assistant, and Software Update
+
+> * compatibility with third party applications and devices
+
+> * previous standalone security updates
+
+[More Information](http://docs.info.apple.com/article.html?artnum=301984)
+
+Available now in update manager
+

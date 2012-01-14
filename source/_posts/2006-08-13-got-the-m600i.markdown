@@ -1,0 +1,30 @@
+---
+author: connylundgren
+date: '2006-08-13 10:47:13'
+layout: post
+slug: got-the-m600i
+status: publish
+title: Got the M600I
+wordpress_id: '52'
+categories:
+- gadgets
+- tech
+---
+
+To follow up on my post yesterday, I purchased a new cellphone friday. I
+finally settled on the M600I (seeing that I couldn't locate a single shop in
+Malmö who had the P990 in stock the decision was pretty easy).
+
+So far it has been a nice experience, more will certainly follow on this.
+
+One minor trick was to get all of my contact (which is stored in my Mac iCal),
+after some research i came up to a solution that will have to do for now.
+
+  1. Set your iCal to use vCard 2.1 (default seems to be 3.0) Preferences => vCard => 2.1
+  2. Select all your contact (or the ones you want exported)
+  3. Drag the selected contact into your desktop or folder, a file called something similar to "FIRST-ENTRY IN ICAL and 146 others.vcf" will be created.
+  4. Beam this file to you M600 with bluetooth, run the file on the cellphone and voila, your finished.
+I guess that will have to do until full iSync is available (note i don't sync
+my appointments with my mac at the moment, they are synced with my current
+clients Windows PC running Outlook 2003)
+

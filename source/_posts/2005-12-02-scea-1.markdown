@@ -1,0 +1,22 @@
+---
+author: connylundgren
+date: '2005-12-02 10:18:20'
+layout: post
+slug: scea-1
+status: publish
+title: SCEA - 1
+wordpress_id: '8'
+categories:
+- general
+---
+
+**Cleared SCEA part 1**  
+After a slow start I took the plunge and booked a time for part one of SCEA
+(Sun Certified Enterprise Architect). For those of you not familiar with SCEA
+the exam is made up of three parts, where the first one is a standard multiple
+choice exam. Once you have completed part 1 you can continue to the "guts" of
+the certification which is architecture based on the requirements you receive.
+
+I have started the analysis work of part 2, and I must say that the
+requirements are as fuzzy as real world requirements often are.
+

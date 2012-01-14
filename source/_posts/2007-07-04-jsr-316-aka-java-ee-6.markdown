@@ -1,0 +1,28 @@
+---
+author: connylundgren
+date: '2007-07-04 17:10:29'
+layout: post
+slug: jsr-316-aka-java-ee-6
+status: publish
+title: JSR 316 a.ka Java EE 6
+wordpress_id: '106'
+categories:
+- java
+- JSR299 (webbeans)
+---
+
+Posted yesterday were the JSR316, or the umbrella JSR for EE 6. (well it was
+posted as JSR313 a while ago). So the news?
+
+Included "new" JSRs
+
+  * [196](http://jcp.org/en/jsr/detail?id=196)
+  * [236](http://jcp.org/en/jsr/detail?id=236)
+  * [237](http://jcp.org/en/jsr/detail?id=237)
+  * [299](http://jcp.org/en/jsr/detail?id=299)
+  * [311](http://jcp.org/en/jsr/detail?id=311)
+As well as updated versions of EJB, JPA, Servlet, JSF, JAX-WS, and the Java EE
+Connector API.
+
+Good news nonetheless.
+
