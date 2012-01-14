@@ -8,6 +8,7 @@ title: NetBeans 5 Beta
 wordpress_id: '45'
 categories:
 - java
+comments: true
 ---
 
 A beta of NetBeans 5 surfaced today. It looks really promising. After seeing

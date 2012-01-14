@@ -8,6 +8,7 @@ title: 'Task-application for small teams? '
 wordpress_id: '9'
 categories:
 - general
+comments: true
 ---
 
 I am looking for a simple application to track task in a small team

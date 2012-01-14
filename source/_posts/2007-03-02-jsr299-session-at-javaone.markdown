@@ -8,6 +8,7 @@ title: JSR299 Session at JavaOne
 wordpress_id: '97'
 categories:
 - JSR299 (webbeans)
+comments: true
 ---
 
 [Gavin](http://blog.hibernate.org/cgi-bin/blosxom.cgi) &

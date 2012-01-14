@@ -8,6 +8,7 @@ title: When is done really done?
 wordpress_id: '135'
 categories:
 - agile
+comments: true
 ---
 
 I don’t matter if you work agile or in waterfall (or any other "process" for

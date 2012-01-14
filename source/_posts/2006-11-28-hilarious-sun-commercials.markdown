@@ -8,6 +8,7 @@ title: Hilarious Sun commercials
 wordpress_id: '75'
 categories:
 - humor
+comments: true
 ---
 
  They might be old for those of you who live over the pond, but I found these

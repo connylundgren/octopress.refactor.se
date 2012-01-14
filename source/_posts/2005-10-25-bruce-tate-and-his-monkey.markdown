@@ -8,6 +8,7 @@ title: Bruce Tate and his monkey..
 wordpress_id: '43'
 categories:
 - java
+comments: true
 ---
 
 Bruce Tate made [a post](http://weblogs.java.net/blog/batate/archive/2005/10/j

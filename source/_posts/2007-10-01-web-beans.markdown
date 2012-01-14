@@ -8,6 +8,7 @@ title: Web Beans
 wordpress_id: '111'
 categories:
 - JSR299 (webbeans)
+comments: true
 ---
 
 In case someone missed last weeks post from Gavin about the JSR299, be sure to

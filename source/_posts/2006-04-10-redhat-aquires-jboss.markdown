@@ -8,6 +8,7 @@ title: RedHat aquires JBoss
 wordpress_id: '14'
 categories:
 - open source
+comments: true
 ---
 
 The time of doubts are over, there has been some speculations about presumable

@@ -8,6 +8,7 @@ title: 'Glassfish to be included in Ubuntu '
 wordpress_id: '72'
 categories:
 - java
+comments: true
 ---
 
 News.com had a quick [report](http://news.com.com/Ubuntu+maker+to+distribute+S

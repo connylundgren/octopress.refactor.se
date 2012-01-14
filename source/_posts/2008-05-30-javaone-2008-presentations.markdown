@@ -10,6 +10,7 @@ categories:
 - java
 tags:
 - javaone
+comments: true
 ---
 
 The presentations from this years JavaOne is now online at SDN. Download/view

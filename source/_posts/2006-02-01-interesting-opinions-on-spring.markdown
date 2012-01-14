@@ -8,6 +8,7 @@ title: Interesting opinions on Spring
 wordpress_id: '32'
 categories:
 - java
+comments: true
 ---
 
 Bob posted an interesting article about Spring, a good post showing not only

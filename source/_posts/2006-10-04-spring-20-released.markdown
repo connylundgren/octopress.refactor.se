@@ -8,6 +8,7 @@ title: Spring 2.0 Released
 wordpress_id: '65'
 categories:
 - java
+comments: true
 ---
 
 Spring 2.0 were

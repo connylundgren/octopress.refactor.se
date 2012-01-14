@@ -8,6 +8,7 @@ title: Netbeans 5.5RC1
 wordpress_id: '66'
 categories:
 - java
+comments: true
 ---
 
 Over at Netbeans Project the

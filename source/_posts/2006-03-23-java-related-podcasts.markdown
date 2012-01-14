@@ -8,6 +8,7 @@ title: Java related podcasts
 wordpress_id: '24'
 categories:
 - java
+comments: true
 ---
 
 Guess this is old news for most of the readers, but I will try to summarize

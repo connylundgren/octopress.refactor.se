@@ -9,6 +9,7 @@ wordpress_id: '40'
 categories:
 - java
 - JSF
+comments: true
 ---
 
 Read it on [Matt

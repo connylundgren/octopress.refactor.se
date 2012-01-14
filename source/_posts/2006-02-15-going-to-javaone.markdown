@@ -8,6 +8,7 @@ title: Going to JavaOne..
 wordpress_id: '6'
 categories:
 - general
+comments: true
 ---
 
 I just registered for this years JavaOne, should be a nice experience as

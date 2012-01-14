@@ -9,6 +9,7 @@ wordpress_id: '23'
 categories:
 - java
 - mac osx
+comments: true
 ---
 
 I've had WLS 8.1 running on my PowerBook lately, using the

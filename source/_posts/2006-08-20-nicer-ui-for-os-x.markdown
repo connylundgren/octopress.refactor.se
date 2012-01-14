@@ -8,6 +8,7 @@ title: Nicer UI for OS X
 wordpress_id: '55'
 categories:
 - mac osx
+comments: true
 ---
 
 OS X seems to be moving away from the 3D design of OSX in Leopard, but you can

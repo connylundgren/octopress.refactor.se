@@ -8,6 +8,7 @@ title: Seam 1.1 GA
 wordpress_id: '83'
 categories:
 - seam
+comments: true
 ---
 
 The 1.1 made GA today, find out the about the nitty gritty details over at

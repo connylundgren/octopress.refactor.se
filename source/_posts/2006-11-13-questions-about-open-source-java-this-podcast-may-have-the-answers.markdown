@@ -8,6 +8,7 @@ title: Questions about Open Source Java? This Podcast may have the answers!
 wordpress_id: '71'
 categories:
 - general
+comments: true
 ---
 
 Java has been released under the GPL v2 Licence. What does this mean for your

@@ -9,6 +9,7 @@ wordpress_id: '106'
 categories:
 - java
 - JSR299 (webbeans)
+comments: true
 ---
 
 Posted yesterday were the JSR316, or the umbrella JSR for EE 6. (well it was

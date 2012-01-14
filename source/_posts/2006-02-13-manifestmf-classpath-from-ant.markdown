@@ -8,6 +8,7 @@ title: MANIFEST.MF Classpath from ANT
 wordpress_id: '30'
 categories:
 - java
+comments: true
 ---
 
 Although unsupported, it is possible to create dependencies in MANIFEST.MF

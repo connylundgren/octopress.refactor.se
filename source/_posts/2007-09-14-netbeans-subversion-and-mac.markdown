@@ -9,6 +9,7 @@ wordpress_id: '110'
 categories:
 - ide, netbeans
 - mac osx
+comments: true
 ---
 
 NetBeans has SVN support pretty much out-of-the-box, but on OS X you will be

@@ -10,6 +10,7 @@ categories:
 - linux
 - mac osx
 - ubuntu
+comments: true
 ---
 
 I tend to keep some files that I need access to from different computers on my

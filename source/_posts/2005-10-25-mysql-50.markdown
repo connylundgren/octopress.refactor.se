@@ -8,6 +8,7 @@ title: MySQL 5.0
 wordpress_id: '13'
 categories:
 - open source
+comments: true
 ---
 
 MySQL has release version 5.0 of their RDB today, and I must say finding

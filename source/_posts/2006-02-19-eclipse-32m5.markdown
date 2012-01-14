@@ -8,6 +8,7 @@ title: Eclipse 3.2M5
 wordpress_id: '26'
 categories:
 - java
+comments: true
 ---
 
 A couple of days ago the M5 release of Eclipse 3.2 were released, when reading

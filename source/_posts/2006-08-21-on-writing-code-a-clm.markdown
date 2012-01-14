@@ -8,6 +8,7 @@ title: On writing code, a CLM?
 wordpress_id: '56'
 categories:
 - general
+comments: true
 ---
 
 Tom Ball is [bloging](http://weblogs.java.net/blog/tball/archive/2006/08/is_wr

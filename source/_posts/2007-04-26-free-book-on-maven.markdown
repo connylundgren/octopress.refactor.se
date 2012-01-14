@@ -8,6 +8,7 @@ title: Free book on Maven
 wordpress_id: '103'
 categories:
 - java
+comments: true
 ---
 
 [Andrew Williams](http://handyande.co.uk//Coding_News/_articles/27.html) posts

@@ -8,6 +8,7 @@ title: 'Intellij IDEA 8 available '
 wordpress_id: '140'
 categories:
 - ide, idea
+comments: true
 ---
 
 I have been using the milestone for quite a while, and I believe there are

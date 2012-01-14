@@ -9,6 +9,7 @@ wordpress_id: '132'
 categories:
 - general
 - java
+comments: true
 ---
 
 Initially I found it hard to Believe, but it appears to be true that Neal

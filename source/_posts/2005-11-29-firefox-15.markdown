@@ -8,6 +8,7 @@ title: Firefox 1.5
 wordpress_id: '11'
 categories:
 - open source
+comments: true
 ---
 
 After a series of betas & RC’s the browser of my choice

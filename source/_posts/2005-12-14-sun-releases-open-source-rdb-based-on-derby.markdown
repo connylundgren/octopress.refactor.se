@@ -8,6 +8,7 @@ title: Sun releases Open Source RDB, based on Derby
 wordpress_id: '39'
 categories:
 - java
+comments: true
 ---
 
 According to a pressrelease from Sun, they have released a database based on

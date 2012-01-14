@@ -8,6 +8,7 @@ title: 10.4.3
 wordpress_id: '15'
 categories:
 - mac osx
+comments: true
 ---
 
 As the rumors said 10.4.3 was released today, to summarise the news (according

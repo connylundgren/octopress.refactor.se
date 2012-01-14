@@ -8,6 +8,7 @@ title: Ricky Gervais Comic Relief
 wordpress_id: '100'
 categories:
 - humor
+comments: true
 ---
 
 

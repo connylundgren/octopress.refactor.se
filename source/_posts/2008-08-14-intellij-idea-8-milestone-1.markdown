@@ -8,6 +8,7 @@ title: IntelliJ IDEA 8 Milestone 1
 wordpress_id: '120'
 categories:
 - ide, idea
+comments: true
 ---
 
 Jetbrains announced a milestone release for my favorite IDE a couple of days

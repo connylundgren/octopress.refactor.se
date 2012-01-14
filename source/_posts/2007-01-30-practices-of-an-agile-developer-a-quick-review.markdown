@@ -8,6 +8,7 @@ title: Practices of an Agile Developer, a quick review
 wordpress_id: '90'
 categories:
 - agile
+comments: true
 ---
 
 I've had this book laying around for some months, and because of time

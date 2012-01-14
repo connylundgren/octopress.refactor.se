@@ -8,6 +8,7 @@ title: JUnit 4.0
 wordpress_id: '27'
 categories:
 - java
+comments: true
 ---
 
 Finaly the point-release of JUnit have been released, this release requires

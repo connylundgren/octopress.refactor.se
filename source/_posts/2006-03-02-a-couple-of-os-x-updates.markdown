@@ -8,6 +8,7 @@ title: A couple of OS X updates
 wordpress_id: '17'
 categories:
 - mac osx
+comments: true
 ---
 
 Apple has addressed the recent well-publicized security issues involving

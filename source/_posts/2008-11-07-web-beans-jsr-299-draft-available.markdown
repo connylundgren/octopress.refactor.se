@@ -8,6 +8,7 @@ title: Web Beans (JSR-299) draft available
 wordpress_id: '138'
 categories:
 - JSR299 (webbeans)
+comments: true
 ---
 
 The JSR299 draft is now available for public review, have a look at it (and

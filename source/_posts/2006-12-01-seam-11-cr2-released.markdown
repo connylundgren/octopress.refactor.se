@@ -9,6 +9,7 @@ wordpress_id: '79'
 categories:
 - java
 - seam
+comments: true
 ---
 
 Following fast on the CR1 release of Jboss Seam is a fix of several issues,

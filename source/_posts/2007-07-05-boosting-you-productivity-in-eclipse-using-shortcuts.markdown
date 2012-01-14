@@ -8,6 +8,7 @@ title: Boosting you productivity in Eclipse using shortcuts
 wordpress_id: '105'
 categories:
 - ide, eclipse
+comments: true
 ---
 
 Recently a team member approached me wanting to switch IDE from the corporate

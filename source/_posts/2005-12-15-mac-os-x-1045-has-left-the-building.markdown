@@ -8,6 +8,7 @@ title: Mac OS X 10.4.5 has left the building
 wordpress_id: '19'
 categories:
 - mac osx
+comments: true
 ---
 
 The new update arrived today; claimed fixes are

@@ -9,6 +9,7 @@ wordpress_id: '62'
 categories:
 - java
 - open source
+comments: true
 ---
 
 Found out that [IBM developerworks](http://www-128.ibm.com/developerworks/java

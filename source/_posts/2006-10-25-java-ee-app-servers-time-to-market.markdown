@@ -8,6 +8,7 @@ title: Java EE App servers, time to market?
 wordpress_id: '69'
 categories:
 - java
+comments: true
 ---
 
 Dr. Dobb's published an [article](http://www.ddj.com/dept/java/193302854)

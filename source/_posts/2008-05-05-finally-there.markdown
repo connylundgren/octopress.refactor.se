@@ -10,6 +10,7 @@ categories:
 - java
 tags:
 - javaone
+comments: true
 ---
 
 At last we arrived to San Francisco and this years installation of [Java

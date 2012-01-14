@@ -8,6 +8,7 @@ title: Java 5 for-each-loop
 wordpress_id: '70'
 categories:
 - java
+comments: true
 ---
 
 One of the nicer features of JDK5 is the enhanced for loop (or the foreach

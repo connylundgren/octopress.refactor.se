@@ -9,6 +9,7 @@ wordpress_id: '115'
 categories:
 - java
 - mac osx
+comments: true
 ---
 
 Finally, after months of silence something about the JDK6 for OS X has

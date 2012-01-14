@@ -9,6 +9,7 @@ wordpress_id: '28'
 categories:
 - java
 - open source
+comments: true
 ---
 
 In a interview over at BEA Dev2Dev, BEA Senior Directory Neelan Choksi

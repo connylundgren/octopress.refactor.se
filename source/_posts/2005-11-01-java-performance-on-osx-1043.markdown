@@ -9,6 +9,7 @@ wordpress_id: '18'
 categories:
 - java
 - mac osx
+comments: true
 ---
 
 According to reports the 10.4.3 OSX update adds enhanced performance for Java

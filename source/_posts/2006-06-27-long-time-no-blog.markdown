@@ -8,6 +8,7 @@ title: Long time, no blog..
 wordpress_id: '47'
 categories:
 - general
+comments: true
 ---
 
 Well, were to begin. It’s been a long time since my last post; this is because

@@ -11,6 +11,7 @@ categories:
 - mac osx
 tags:
 - osx leopard java jdk
+comments: true
 ---
 
 So what’s up with Java on the Mac? After the initial chock of Apple not

@@ -8,6 +8,7 @@ title: Wise word
 wordpress_id: '46'
 categories:
 - general
+comments: true
 ---
 
 Great article by Michael Feathers about [being a

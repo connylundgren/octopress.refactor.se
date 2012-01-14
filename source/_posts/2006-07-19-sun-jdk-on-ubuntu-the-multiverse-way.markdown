@@ -9,6 +9,7 @@ wordpress_id: '48'
 categories:
 - java
 - linux
+comments: true
 ---
 
 The 6.06 Dapper release includes support for Sun JVMs via the Multiverse

@@ -9,6 +9,7 @@ wordpress_id: '42'
 categories:
 - java
 - open source
+comments: true
 ---
 
 IBM today released a product called WebSphere Application Server Community

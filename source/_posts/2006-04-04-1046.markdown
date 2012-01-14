@@ -8,6 +8,7 @@ title: 10.4.6
 wordpress_id: '16'
 categories:
 - mac osx
+comments: true
 ---
 
 10.4.6 is available now from Software Update. Bugfixes/features from the

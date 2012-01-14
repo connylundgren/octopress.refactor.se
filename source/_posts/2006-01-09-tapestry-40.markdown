@@ -8,6 +8,7 @@ title: Tapestry 4.0
 wordpress_id: '33'
 categories:
 - java
+comments: true
 ---
 
 After some major work (almost 2 years of development) the Tapestry team has

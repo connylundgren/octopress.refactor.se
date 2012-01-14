@@ -9,6 +9,7 @@ wordpress_id: '52'
 categories:
 - gadgets
 - tech
+comments: true
 ---
 
 To follow up on my post yesterday, I purchased a new cellphone friday. I

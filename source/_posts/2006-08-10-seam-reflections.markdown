@@ -9,6 +9,7 @@ wordpress_id: '50'
 categories:
 - java
 - seam
+comments: true
 ---
 
 Over the last couple of weeks I've been spending some time prototyping with

@@ -8,6 +8,7 @@ title: JSR220 hits final draft
 wordpress_id: '36'
 categories:
 - java
+comments: true
 ---
 
 [JSR220 (Enterprise JavaBeansTM 3.0)](http://jcp.org/en/jsr/detail?id=220)

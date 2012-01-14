@@ -8,6 +8,7 @@ title: Next JavaForum in Malmö
 wordpress_id: '92'
 categories:
 - java
+comments: true
 ---
 
 The schedule for the Malmö edition of JavaForum has been posted, it takes

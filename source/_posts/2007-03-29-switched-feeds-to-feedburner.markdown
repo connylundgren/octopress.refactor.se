@@ -8,6 +8,7 @@ title: Switched feeds to FeedBurner
 wordpress_id: '101'
 categories:
 - general
+comments: true
 ---
 
 I've switched my feeds at this blog to be published via

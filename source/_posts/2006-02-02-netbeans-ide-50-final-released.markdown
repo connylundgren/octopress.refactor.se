@@ -8,6 +8,7 @@ title: NetBeans IDE 5.0 Final Released
 wordpress_id: '31'
 categories:
 - java
+comments: true
 ---
 
 NetBeans.org has finally released NetBeans IDE 5.0 Final. The link is to the

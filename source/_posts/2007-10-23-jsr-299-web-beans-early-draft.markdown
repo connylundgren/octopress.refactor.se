@@ -12,6 +12,7 @@ tags:
 - java
 - jsr299
 - webbeans
+comments: true
 ---
 
 Gavin has made the [Early Draft of JSR 299](http://in.relation.to/2609.lace)

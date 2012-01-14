@@ -8,6 +8,7 @@ title: 'Play WMV in Quicktime '
 wordpress_id: '21'
 categories:
 - mac osx
+comments: true
 ---
 
 Flip4Mac has a really nice extension for those of you that are running OSX,

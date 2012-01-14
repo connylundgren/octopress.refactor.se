@@ -9,6 +9,7 @@ wordpress_id: '99'
 categories:
 - java
 - JSF
+comments: true
 ---
 
 Ericsson (yes, not Sony Ericsson) surely surprised me with the release of a

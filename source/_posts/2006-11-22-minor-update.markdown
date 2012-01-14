@@ -11,6 +11,7 @@ categories:
 - java
 - JSF
 - JSR299 (webbeans)
+comments: true
 ---
 
 Well just a quick update what has been going on lately.

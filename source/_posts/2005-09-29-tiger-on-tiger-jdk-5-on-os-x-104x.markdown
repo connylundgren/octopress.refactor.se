@@ -9,6 +9,7 @@ wordpress_id: '22'
 categories:
 - java
 - mac osx
+comments: true
 ---
 
 Apples implementation of JDK 5.0 works terrific, although after installation

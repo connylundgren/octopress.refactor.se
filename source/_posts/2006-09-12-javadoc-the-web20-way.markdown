@@ -8,6 +8,7 @@ title: Javadoc the Web2.0 way
 wordpress_id: '63'
 categories:
 - java
+comments: true
 ---
 
 I just found a site with nice javadocs, using AJAX. The site has nice

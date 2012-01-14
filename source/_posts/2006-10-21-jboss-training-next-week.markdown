@@ -10,6 +10,7 @@ categories:
 - general
 - java
 - open source
+comments: true
 ---
 
 Next week I will be attending a training session on Jboss in Stockholm (JBoss

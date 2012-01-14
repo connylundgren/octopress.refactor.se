@@ -8,6 +8,7 @@ title: The Mustang is loose..
 wordpress_id: '81'
 categories:
 - java
+comments: true
 ---
 
 In case you might have missed, Sun released [Java SE

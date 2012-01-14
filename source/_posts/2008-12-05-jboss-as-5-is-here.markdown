@@ -8,6 +8,7 @@ title: JBoss AS 5 is here!
 wordpress_id: '143'
 categories:
 - jboss
+comments: true
 ---
 
 The long awaited Jboss 5 Application Server is finally here, It seems to have

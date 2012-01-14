@@ -8,6 +8,7 @@ title: 'SVN, Fix "Can''t convert string from ''UTF-8'' to native encoding:" '
 wordpress_id: '107'
 categories:
 - general
+comments: true
 ---
 
 Well getting back from vacation I tried to update one of my subversion

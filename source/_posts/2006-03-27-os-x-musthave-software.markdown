@@ -8,6 +8,7 @@ title: OS X "musthave" software
 wordpress_id: '20'
 categories:
 - mac osx
+comments: true
 ---
 
 This post is mostly for my own recognition, but it might interest some of my

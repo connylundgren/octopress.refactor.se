@@ -9,6 +9,7 @@ wordpress_id: '73'
 categories:
 - java
 - seam
+comments: true
 ---
 
 The CR1 of Seam 1.1 were released yesterday, and it brings allot of new nice

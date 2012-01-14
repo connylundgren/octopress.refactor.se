@@ -10,6 +10,7 @@ categories:
 - ide, idea
 - java
 - mac osx
+comments: true
 ---
 
 This isn't exactly new, but some java-apps seem to have problems with Spaces

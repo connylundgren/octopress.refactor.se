@@ -9,6 +9,7 @@ wordpress_id: '80'
 categories:
 - java
 - JSF
+comments: true
 ---
 
 From [Jacobs blog](http://weblogs.java.net/blog/jhook/archive/2006/12/facelets

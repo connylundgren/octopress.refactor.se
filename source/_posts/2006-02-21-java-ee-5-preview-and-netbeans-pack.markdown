@@ -9,6 +9,7 @@ wordpress_id: '25'
 categories:
 - java
 - open source
+comments: true
 ---
 
 Sun has released a preview version of the [Java EE 5

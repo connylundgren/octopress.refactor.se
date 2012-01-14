@@ -9,6 +9,7 @@ wordpress_id: '54'
 categories:
 - java
 - open source
+comments: true
 ---
 
 According to different sources ([blogs](http://blogs.zdnet.com/BTL/?p=3493)

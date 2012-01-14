@@ -8,6 +8,7 @@ title: Eclipse WTP 1.0
 wordpress_id: '35'
 categories:
 - java
+comments: true
 ---
 
 Eclipse release the 1.0 of their WTP (Web Tools Platform) today, WTP is a nice

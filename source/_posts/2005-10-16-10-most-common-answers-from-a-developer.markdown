@@ -8,6 +8,7 @@ title: 10 most common answers from a developer
 wordpress_id: '4'
 categories:
 - general
+comments: true
 ---
 
 The following is quite old by now, but still get its point through…

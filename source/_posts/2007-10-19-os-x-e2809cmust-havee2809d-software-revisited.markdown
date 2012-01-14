@@ -8,6 +8,7 @@ title: OS X “must-have” software, revisited
 wordpress_id: '108'
 categories:
 - mac
+comments: true
 ---
 
 Following up on a popular, but somewhat outdated list of my "must-have

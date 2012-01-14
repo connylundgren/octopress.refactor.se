@@ -8,6 +8,7 @@ title: Remove duplicates
 wordpress_id: '49'
 categories:
 - java
+comments: true
 ---
 
 I read a [nice post](http://briankuhn.com/?p=47) about removing duplicates

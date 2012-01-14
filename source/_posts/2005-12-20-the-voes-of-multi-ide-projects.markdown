@@ -8,6 +8,7 @@ title: The voes of multi-IDE projects.
 wordpress_id: '10'
 categories:
 - general
+comments: true
 ---
 
 At my current gig we use multiple IDE's for different tasks (of historic

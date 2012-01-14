@@ -9,6 +9,7 @@ wordpress_id: '41'
 categories:
 - java
 - mac osx
+comments: true
 ---
 
 Tor Norbye points out that Milestone 11 of NetBeans Performance Profiler now

@@ -9,6 +9,7 @@ wordpress_id: '114'
 categories:
 - mac
 - mac osx
+comments: true
 ---
 
 Just a quick tip for the Leopard users out there, to have a stack in the dock

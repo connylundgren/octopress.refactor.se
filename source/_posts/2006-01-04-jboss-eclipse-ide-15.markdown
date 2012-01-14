@@ -8,6 +8,7 @@ title: JBoss Eclipse IDE 1.5
 wordpress_id: '34'
 categories:
 - java
+comments: true
 ---
 
 The JBoss Group has announced the release of version 1.5 of their JBoss

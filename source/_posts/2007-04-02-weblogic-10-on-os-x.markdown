@@ -9,6 +9,7 @@ wordpress_id: '102'
 categories:
 - java
 - mac osx
+comments: true
 ---
 
 Weblogic, being one of the major player in the Java EE app server space [relea

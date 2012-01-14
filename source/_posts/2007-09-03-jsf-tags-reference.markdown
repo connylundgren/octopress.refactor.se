@@ -8,6 +8,7 @@ title: JSF tags reference
 wordpress_id: '109'
 categories:
 - JSF
+comments: true
 ---
 
 While working on some custom renderers last week I one again found myself

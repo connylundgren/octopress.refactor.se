@@ -8,6 +8,7 @@ title: Team dynamics analogy
 wordpress_id: '61'
 categories:
 - general
+comments: true
 ---
 
 Found an interesting post over at [Darren

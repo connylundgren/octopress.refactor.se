@@ -8,6 +8,7 @@ title: Posting Disclaimer
 wordpress_id: '3'
 categories:
 - general
+comments: true
 ---
 
 Posting disclaimer!

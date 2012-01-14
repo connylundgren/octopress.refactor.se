@@ -8,6 +8,7 @@ title: Apache Beehive 1.0
 wordpress_id: '44'
 categories:
 - java
+comments: true
 ---
 
 Apache Beehive released 1.0 today, for those of you not familiar with Beehive

@@ -8,6 +8,7 @@ title: Java and PHP integration
 wordpress_id: '37'
 categories:
 - java
+comments: true
 ---
 
 Dion blogged  about how to run php and Java together looks really nice. Even

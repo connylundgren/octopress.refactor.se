@@ -9,6 +9,7 @@ wordpress_id: '64'
 categories:
 - linux
 - ubuntu
+comments: true
 ---
 
 One of the nicest features on my OSX machine is the built in function to print

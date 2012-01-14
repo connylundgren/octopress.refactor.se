@@ -8,6 +8,7 @@ title: 30sec Subversion setup
 wordpress_id: '68'
 categories:
 - general
+comments: true
 ---
 
 I also suffer from the same syndrome as

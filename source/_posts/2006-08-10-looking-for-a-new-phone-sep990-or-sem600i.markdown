@@ -9,6 +9,7 @@ wordpress_id: '51'
 categories:
 - gadgets
 - tech
+comments: true
 ---
 
 My Sony Ericsson P910 phone died early this spring, and was hastily replaced

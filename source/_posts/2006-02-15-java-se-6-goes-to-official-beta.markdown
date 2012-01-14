@@ -8,6 +8,7 @@ title: Java SE 6 goes to official beta
 wordpress_id: '29'
 categories:
 - java
+comments: true
 ---
 
 Java Standard Edition 6 (a.k.a Mustang/) is now officially a beta,

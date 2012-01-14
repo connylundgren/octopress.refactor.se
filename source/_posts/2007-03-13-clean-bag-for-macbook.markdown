@@ -10,6 +10,7 @@ categories:
 - gadgets
 - hardware
 - mac
+comments: true
 ---
 
 It seams that I forgot to mention I picked up a

@@ -9,6 +9,7 @@ wordpress_id: '82'
 categories:
 - gadgets
 - mac osx
+comments: true
 ---
 
 I’ve been looking into replacing my now somewhat aging 17” powerbook (1,67Ghz,

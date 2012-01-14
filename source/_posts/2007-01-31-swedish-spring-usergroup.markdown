@@ -8,6 +8,7 @@ title: Swedish Spring usergroup
 wordpress_id: '91'
 categories:
 - java
+comments: true
 ---
 
 Good to see things are moving here in Sweden aswell. (snipet from [http://www.

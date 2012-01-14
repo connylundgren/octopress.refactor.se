@@ -8,6 +8,7 @@ title: Moved the blog, or atleast tried to..
 wordpress_id: '95'
 categories:
 - general
+comments: true
 ---
 
 I started to move my blog yesterday, from my own hosting to a shared hosting

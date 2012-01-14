@@ -8,6 +8,7 @@ title: Learning from OSS projects?
 wordpress_id: '7'
 categories:
 - general
+comments: true
 ---
 
 The O'Reilly website onlamp.com has a really interesting article out about

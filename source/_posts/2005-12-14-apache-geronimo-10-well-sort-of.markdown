@@ -8,6 +8,7 @@ title: Apache Geronimo 1.0 (well sort of..)
 wordpress_id: '38'
 categories:
 - java
+comments: true
 ---
 
 Apache Software Foundation issued a

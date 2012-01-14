@@ -6,8 +6,10 @@ slug: jboss-microsoft
 status: publish
 title: Jboss + Microsoft
 wordpress_id: '12'
+comments: yes
 categories:
 - open source
+comments: true
 ---
 
 Marc Fleury blogged about some groundbreaking news to be revealed, the
